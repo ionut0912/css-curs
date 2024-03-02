@@ -340,9 +340,9 @@ border-button-right-radius:var(--BORDERS-RADIUS)
 
 @media screen and (min-width: 576px){
     .header__h1::before{
-        content:""
+        content:"🍕
     }
     .header__h1::after{
-        content: ""
+        content: "🍕
     }
 }
